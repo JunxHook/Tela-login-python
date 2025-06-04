@@ -10,7 +10,7 @@ janela = ctk.CTk()
 janela.geometry("400x500")
 janela.title("Login UI")
 
-# --- Adicione estas linhas para o background ---
+#background
 from customtkinter import CTkImage
 from PIL import Image
 
